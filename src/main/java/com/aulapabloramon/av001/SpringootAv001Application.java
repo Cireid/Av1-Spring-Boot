@@ -1,4 +1,4 @@
-package com.estudandoprova.pablo01;
+package com.aulapabloramon.av001;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
